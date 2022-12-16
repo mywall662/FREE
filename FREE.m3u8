@@ -1,0 +1,251 @@
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
+#EXTM3U x-tvg-url="https://bit.ly/393pqud"
+#EXTM3U x-tvg-url="https://bit.ly/3wUnGvj"
+#EXTM3U x-tvg-url="https://smetv.live/epg/freeMY/NEXTV"
+
+
+
+##TV1##
+#EXTINF:-1 group-title="[1]MYFREEVIEW" ch-number="101" tvg-id="TV1" tvg-chno="101"  tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",[1]TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+
+##TV2##
+#EXTINF:-1 group-title="[1]MYFREEVIEW" ch-number="102" tvg-id="TV2" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",[2]TV2 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+
+##TV3##
+#EXTINF:-1 group-title="[1]MYFREEVIEW" ch-number="103" tvg-id="TV3" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",[3]TV3 
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
+
+##TV6##
+#EXTINF:-1 group-title="[1]MYFREEVIEW" ch-number="106" tvg-id="TV6" tvg-chno="106" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",[4]TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+
+##TV7##
+#EXTINF:-1 group-title="[1]MYFREEVIEW" ch-number="107" tvg-id="DidikTVKPM" tvg-chno="107" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",[5]DidikTV KPM
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+
+##TV8##
+#EXTINF:-1 group-title="[1]MYFREEVIEW" ch-number="108" tvg-id="8TV" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",[6]8TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
+
+##TV9##
+#EXTINF:-1 group-title="[1]MYFREEVIEW"ch-number="109" tvg-id="TV9" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",[7]TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+
+##DramaSangat##
+#EXTINF:-1 group-title="[1]MYFREEVIEW"ch-number="DramaSangat" tvg-id="DramaSangaT" tvg-chno="DramaSangat" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",[8]Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+##TVOkey##
+#EXTINF:-1 tvg-id="OKEY" group-title="[1]MYFREEVIEW"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",[9]TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+
+##BeritaRTM##
+#EXTINF:-1 tvg-id="BeritaRTM" group-title="[1]MYFREEVIEW" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",[10]Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
+
+##RTMSUKAN##
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="[1]MYFREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",[11]Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+##TVIKIM##
+#EXTINF:-1 tvg-id="114" tvg-name="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="[1]MYFREEVIEW",[12]IKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
+##AwesomeTV##
+#EXTINF:-1 group-title="[1]MYFREEVIEW" ch-number="123" tvg-id="AwesomeTV" tvg-chno="123"  tvg-logo="https://iili.io/1NqAMl.png",[13]Awesome TV 
+https://links.nextv.ga:443/live/freeMY/NEXTV/1461.ts
+
+##Al-Hijrah##
+#EXTINF:-1 tvg-id="114" tvg-name="TVAlhijrah" group-title="[1]MYFREEVIEW" tvg-logo="https://iili.io/1NqqFI.png",[14]Al-Hijrah 
+https://links.nextv.ga:443/live/freeMY/NEXTV/1515.ts
+
+##AstroRIA##
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="[2]ASTRO",Astro Ria
+
+##AstroPRIMA##
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima 
+https://links.nextv.ga:443/live/freeMY/NEXTV/1511.ts
+
+##AstroOasis##
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis 
+https://links.nextv.ga:443/live/freeMY/NEXTV/1512.ts
+
+##AstroWarna##
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="[2]ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
+https://links.nextv.ga:443/live/freeMY/NEXTV/1508.ts
+
+##AstroCitra##
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="[2]ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+https://links.nextv.ga:443/live/freeMY/NEXTV/230.ts
+
+##AstroCeria##
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria HD" group-title="[2]ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",Astro Ceria  
+https://links.nextv.ga:443/live/freeMY/NEXTV/1518.ts
+
+##AstroAwani##
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",Astro Awani 
+https://links.nextv.ga:443/live/freeMY/NEXTV/8.ts
+
+##AstroArena##
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena 
+https://links.nextv.ga:443/live/freeMY/NEXTV/5.ts
+
+##MOVIE##
+
+##HitsMovies##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="Hits Movies HD" group-title="[3]MOVIES" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202110/20211002/202110020531032952nt.png",HITS Movies
+https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+##HITS##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HITS" tvg-name="Hits Movies HD" group-title="[3]MOVIES" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210930/20210930184050677l5v.png",HITS 
+https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+##CelestialClassic##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CCM" tvg-name="Celestial Classic" group-title="[3]MOVIES" tvg-logo="https://i.postimg.cc/8zhftPQp/ccm.png",Celestial Classic Movies 
+https://av-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+##CelestialMovies##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="[3]MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",Celestial Movies 
+https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+##tvNMovies##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies HD" group-title="[3]MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",tvN Movies
+https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+##ZeeBIOSKOP##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-name="Zee BIOSKOP" group-title="[3]MOVIES" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202206/20220623/20220623190144437nxu.png",Zee BIOSKOP 
+https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+##Lifetime##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" group-title="[3]MOVIES" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg",Lifetime
+https://av-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+##CinemaxHD2##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="[3]MOVIES",Cinemax 
+https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+##Galaxy-HD##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="Galaxy.id" tvg-name="Galaxy-HD" tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="[3]MOVIES",Galaxy
+https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+##GalaxyPremium-HD##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium-HD" tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="[3]MOVIES",Galaxy Premium
+https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+##HBO##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-name="HBOAsia.sg" tvg-logo="https://i.ibb.co/brpqvXS/HBO-S1.png" group-title="[3]MOVIES",HBO
+https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+##HBO Family##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-name="HBOFamilyAsia.sg" tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="[3]MOVIES",HBO Family
+https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+##HBOSignature2##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg" tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="[3]MOVIES",HBO Signature
+https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+##HBOHits##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="HBOHits.us" tvg-name="HBOHits.us" tvg-logo="http://cdn.roll.my.id/img/hbohits.png" group-title="[3]MOVIES",HBO Hits
+https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+##XingKongTV##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="XingKongTV" tvg-name="XingKongTV" tvg-logo="H" group-title="[3]MOVIES"XingKong TV
+https://av-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+
+##AXN##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" group-title="[3]MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png",AXN
+https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+##CrimeInvestigation##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-name="Crime and Investigation HD" group-title="[3]MOVIES" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime Investigation 
+https://av-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+##KIX##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="[3]MOVIES",KIX
+https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+##Thrill##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="[3]MOVIES",THRILL
+https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+##WarnerTV##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="[3]MOVIES" tvg-id="WarnerTV" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV
+https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+##CinemaWorld##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://telegra.ph/file/e6112cb983d4e23547943.png" group-title="[3]MOVIES", CINEMA WORLD
+https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+##Boomerang##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="[3]MOVIES",BOOMERANG
+https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+##CartoonNetwork##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="https://i.imgur.com/BW7GtXU.png" group-title="[3]MOVIES",Cartoon Network
+https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+##NickJr-HD##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="NickJr" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="[3]MOVIES",Nick Junior
+https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+##Nickelodeon##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202206/20220623/20220623191830543uia.png" group-title="[3]MOVIES",Nickelodeon
+https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+##Animax##
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6344a8272809245e3fa9d926099528c3&key=93b6c4ff420c6864a6294f6d223d9b2c
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://static.mncnow.id/images/channel/39b367ac-396.png" group-title="[3]MOVIES",ANIMAX
+https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+##[4]KOREA##
+
+##tvNMovies##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies HD" group-title="[4]KOREA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",tvN Movies
+https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" group-title="[4]KOREA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",KBSWorld
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+
+##SetOne##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ONE" tvg-name="ONE HD" group-title="[4]KOREA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png",ONE 
+https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+##tvN##
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="tvN" tvg-name="tVN HD" group-title="[4]KOREA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png",tvN 
+https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+##K-Plus##
+#EXTINF:-1 tvg-id="K-Plus" tvg-name="K-Plus" group-title="[4]KOREA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png",K-Plus 
+http://210.210.155.35/uq2663/h/h08/index.m3u8 
