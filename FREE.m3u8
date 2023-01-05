@@ -55,34 +55,34 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
 ##AwesomeTV##
 #EXTINF:-1 group-title="[1]MYFREEVIEW" ch-number="123" tvg-id="AwesomeTV" tvg-chno="123"  tvg-logo="https://iili.io/1NqAMl.png",[13]Awesome TV 
-https://links.nextv.ga:443/live/freeMY/NEXTV/1461.ts
+
 
 ##Al-Hijrah##
 #EXTINF:-1 tvg-id="114" tvg-name="TVAlhijrah" group-title="[1]MYFREEVIEW" tvg-logo="https://iili.io/1NqqFI.png",[14]Al-Hijrah 
-https://links.nextv.ga:443/live/freeMY/NEXTV/1515.ts
+
 
 ##AstroRIA##
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="[2]ASTRO",Astro Ria
 
 ##AstroPRIMA##
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima 
-https://links.nextv.ga:443/live/freeMY/NEXTV/1511.ts
+
 
 ##AstroOasis##
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis 
-https://links.nextv.ga:443/live/freeMY/NEXTV/1512.ts
+
 
 ##AstroWarna##
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="[2]ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
-https://links.nextv.ga:443/live/freeMY/NEXTV/1508.ts
+
 
 ##AstroCitra##
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="[2]ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
-https://links.nextv.ga:443/live/freeMY/NEXTV/230.ts
+
 
 ##AstroCeria##
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria HD" group-title="[2]ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",Astro Ceria  
-https://links.nextv.ga:443/live/freeMY/NEXTV/1518.ts
+
 
 ##AstroAwani##
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",Astro Awani 
@@ -90,7 +90,7 @@ https://links.nextv.ga:443/live/freeMY/NEXTV/8.ts
 
 ##AstroArena##
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena 
-https://links.nextv.ga:443/live/freeMY/NEXTV/5.ts
+
 
 ##MOVIE##
 
