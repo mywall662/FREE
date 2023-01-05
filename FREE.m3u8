@@ -86,7 +86,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
 ##AstroAwani##
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",Astro Awani 
-https://links.nextv.ga:443/live/freeMY/NEXTV/8.ts
+
 
 ##AstroArena##
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="[2]ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena 
